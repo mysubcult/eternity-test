@@ -5,10 +5,10 @@ url: work
 
 <div align="center">
 	<p>
-        Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
+        Это сайт-портфолио Сани Шокоровой. Она тут выкладывает фотки.
 	</p>
 	<p>
-		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
+		А Тёма<strong>Тёма</strong> рубит бабло. 
 	</p>
 </div>
 
