@@ -10,7 +10,7 @@ params:
   subtitle: Это сайт-портфолио Сани Шокоровой. Она тут выкладывает фотки, а Тёма рубит бабло.
   copyright: All rights reserved. # todo: set your copyright type.
   author: Lovely Author # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  dontShowSource: true # please, do not do this :)
   portfolio:
     columns:
       desktop:
