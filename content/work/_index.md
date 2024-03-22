@@ -1,14 +1,11 @@
 ---
 title: work
 url: work
-hideTitle: true
-hideExif: true
-hideDate: true
 ---
 
 <div align="center">
 	<p>
-        Типа, привет.
+        Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
 	</p>
 	<p>
 		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
@@ -28,4 +25,3 @@ hideDate: true
 - Automatically creates **resized** thumbnails.
 
 - Shows **exif** if it exists.
-
