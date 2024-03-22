@@ -1,6 +1,6 @@
 baseURL: https://mysubcult.github.io/eternity-test # todo: change site url.
 title: Шокорова # todo: change site name.
-defaultContentLanguage: 'ru'
+defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
